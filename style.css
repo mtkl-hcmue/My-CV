@@ -20,9 +20,10 @@ body {
     position: relative;
     background: rgb(255, 255, 255);
 
+    margin-top: 50px;
     width: 100%;
     max-width: 1000px;
-    min-height: 1000px;
+    min-height: 1500px;
     /* margin: 50px; */
     display:grid;   
     grid-template-columns: 1fr 2fr;
@@ -33,6 +34,7 @@ body {
 .container .left_side {
     position: relative;
     background: rgb(1, 64, 93);
+    /* background: rgb(1, 69, 64); */
     padding: 40px;
 }
 
